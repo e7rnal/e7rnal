@@ -1,6 +1,6 @@
-- 👋 Namste ,_ I’m Vishu_
-- 👀 I’m interested in learning coding , now stuck on **c & c++**
-- 🌱 I’m currently learning **BCA a Computer Science Degree **
+- 👋 Namste  _I’m Vishu_
+- 👀 Learning coding , now stuck on **c & c++**
+- 🌱 I’m currently learning  **BCA a Computer Science Degree**
 - 📫 How to reach me ... Telegram @e7rnal
 
 <!---
